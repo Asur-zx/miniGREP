@@ -1,0 +1,1 @@
+/home/asur/Documents/Programs/personal-project/minigrep/minigrep/target/release/minigrep: /home/asur/Documents/Programs/personal-project/minigrep/minigrep/src/lib.rs /home/asur/Documents/Programs/personal-project/minigrep/minigrep/src/main.rs
